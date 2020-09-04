@@ -9,7 +9,7 @@ class RootPage extends StatefulWidget {
 
 class _RootPageState extends State<RootPage> {
   AppColors appColors = AppColors();
-  String _primaryAppBarTitle = 'Flutter app';
+  String _primaryAppBarTitle = 'Random Color app';
   String _secondaryAppBarTitle = 'Tap on screen to change color';
   String _centerContainerText = 'Hey there';
   String _colorPaletteText = 'Background colors';
