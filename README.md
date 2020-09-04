@@ -1,4 +1,4 @@
-## SolidSoftware Test app
+## Solid Software Test app
 
 A new Flutter project.
 
